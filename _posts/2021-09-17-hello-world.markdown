@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 This is a hello world -- you can write anything here and it will work
+
+Đây là trang web của cá nhân tôi. Mọi ý kiến ở đây là ý kiến cá nhân. 
