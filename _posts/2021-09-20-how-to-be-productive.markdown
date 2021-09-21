@@ -5,8 +5,6 @@ date:   2021-09-20 10:38:19 -0700
 categories: jekyll update
 ---
 
-# How to be productive
-
 This is the list of things that I find important for my productivity.
 
 __Work on the right things__
@@ -39,4 +37,4 @@ There are a ton of self-help books that try to tell you to stay focus  Do not mu
 
 __Do a little everyday__
 
-##### If you're interesting 
+### If you're interesting
