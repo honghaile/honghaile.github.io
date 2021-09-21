@@ -29,10 +29,14 @@ __The 10-10-10 rule__
 
 When facing a question of whether something is important enough for me to spend my time working on, I use this 10-10-10 rule.  The rule is by asking yourself whether the thing you care about right now will mean anything in 10 days, in 10 months, and in 10 years.  Most of the things don't matter after 10 months, and definitely not a lot of things matter after 10 years.  But when you find them, spend a lot of time working on them.
 
-__Stay focus__
-
-A lot of people talking about this, but it's important to stay focus.  Do not multitask, you'll get nothing done.
-
-__Just decide, and decide quickly__
+__Decide and decide quickly__
 
 In the past, I usually find myself taking a lot of time deciding on which options to take.  Later, I realize that
+
+__Stay focus__
+
+There are a ton of self-help books that try to tell you to stay focus  Do not multitask, you'll get nothing done.
+
+__Do a little everyday__
+
+##### If you're interesting 
