@@ -9,7 +9,7 @@ This is the list of things that I find important for my productivity.
 
 __Work on the right things__
 
-Identify the important things early and frequent and spend a lot of time working on them.  Many people like to pretend to be busy, but most of the time they end up not working on the right things.  
+Identify the important things early and frequent and spend a lot of time working on them.  Many people like to pretend to be busy, but most of the time they end up not working on the right things.  You won't get much done if you're working on the wrong things all the time.
 
 __Get enough sleep__
 
@@ -37,4 +37,4 @@ There are a ton of self-help books that try to tell you to stay focus  Do not mu
 
 __Do a little everyday__
 
-### If you're interesting
+#### If you're interesting
