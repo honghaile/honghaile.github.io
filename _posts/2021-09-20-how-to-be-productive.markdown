@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-09-17 10:38:19 -0700
+title:  "How to be productive"
+date:   2021-09-20 10:38:19 -0700
 categories: jekyll update
 ---
 
@@ -23,7 +23,7 @@ When I was working on my startup, there were bad days that I feel miserable, and
 
 __Don't waste time on things that don't matter__  
 
-If you look at your daily todo list, you'll find that you care about, or spend time on, do not matter. 
+If you look at your daily todo list, you'll find that you care about, or spend time on, do not matter.
 
 __The 10-10-10 rule__
 
