@@ -7,7 +7,7 @@ categories: jekyll update
 
 Recently someone created an [app](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0) to aggregate books recommended by Hacker News.
 
-Here's the (hacker news post)[https://news.ycombinator.com/item?id=28595967]
+Here's the [hacker news post](https://news.ycombinator.com/item?id=28595967).
 
 I thought this project is very neat because it used NLP models to look at hacker news comments and figure out how books are mentioned.
 
