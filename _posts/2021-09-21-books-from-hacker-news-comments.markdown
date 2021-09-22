@@ -5,8 +5,9 @@ date:   2021-09-21 10:38:19 -0700
 categories: jekyll update
 ---
 
-Recently someone created an (app)[https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0] to aggregate books recommended by Hacker News.
-https://news.ycombinator.com/item?id=28595967
+Recently someone created an [app](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0) to aggregate books recommended by Hacker News.
+
+Here's the (hacker news post)[https://news.ycombinator.com/item?id=28595967]
 
 I thought this project is very neat because it used NLP models to look at hacker news comments and figure out how books are mentioned.
 
@@ -26,7 +27,7 @@ Here's a list of top books from this page:
 
 If you are an avid readers, you've heard about most of  top 100 books on this list.  However, it's still very neat to have this list around.   The other thing worths mentioning is some of the book from this page
 
-I ended up getting 7 new books after visiting this cool project
+I end up getting 7 new books after visiting this cool project:
 
 - Brave New World
 - Zen and the Art of Motorcycle Maintenance
