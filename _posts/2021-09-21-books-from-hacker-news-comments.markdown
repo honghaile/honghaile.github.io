@@ -9,11 +9,9 @@ Recently someone created an [app](https://hacker-recommended-books.vercel.app/ca
 
 Here's the [hacker news post](https://news.ycombinator.com/item?id=28595967).
 
-I thought this project is very neat because it used NLP models to look at hacker news comments and figure out how books are mentioned.
+This project uses NLP models to look at hacker news comments and recommends books from the aggregated words.
 
-
-
-Here's a list of top books from this page:
+Here’s a list of top books from this page:
 
 - Thinking, Fast and Slow by Daniel Kahneman
 - The Pragmatic Programmer by David Thomas
@@ -25,10 +23,11 @@ Here's a list of top books from this page:
 - Atlas Shrugged by Ayn Rand
 - Brave New World by Aldous Huxley
 
-If you are an avid readers, you've heard about most of  top 100 books on this list.  However, it's still very neat to have this list around.   The other thing worths mentioning is some of the book from this page
+If you are an avid reader, you’ve heard about most of the top 100 books on this list. Still, it’s a neat list of good books to keep around, especially books that the hacker news community mentioned in the last six months.  Here is NLP plus the wisdom of the crowd.
 
-I end up getting 7 new books after visiting this cool project:
+One thing worth mentioning is that books recommended here are geared towards the tech and hacker news community - a community of hackers, entrepreneurs, and founders in the tech community.
 
+I end up getting seven new books after visiting this fantastic project:
 - Brave New World
 - Zen and the Art of Motorcycle Maintenance
 - Cryptonomicon
