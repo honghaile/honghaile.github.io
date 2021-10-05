@@ -7,8 +7,6 @@ categories: blockchain
 
 ## Monday October 4th, 2021
 
-<ul>
-
 Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa" trong bài Còn thương rau đắng mọc sau hè của Cố nhạc sĩ Bắc Sơn
 
 - Thằng em nhỏ tóc vẫn chừa ba vá.  
@@ -27,6 +25,5 @@ Facebook stopped working for hours.  Posts that explained what really happened
 - [What Happened to Facebook, Instagram, & WhatsApp? – Krebs on Security](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
 
 
-</ul>
 
 ---
