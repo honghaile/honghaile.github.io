@@ -5,6 +5,15 @@ date:   2021-07-05 10:21:22 -0700
 categories: blockchain
 ---
 
+### Tuesday October 5th, 2021
+
+__Why curiosity is better than being smart?__
+
+https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/
+
+
+---
+
 ### Monday October 4th, 2021
 
 __Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa" trong bài Còn thương rau đắng mọc sau hè của Cố nhạc sĩ Bắc Sơn__
