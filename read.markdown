@@ -27,4 +27,6 @@ Facebook stopped working for hours.  Posts that explained what really happened
 - [What Happened to Facebook, Instagram, & WhatsApp? – Krebs on Security](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
 
 
+</ul>
+
 ---
