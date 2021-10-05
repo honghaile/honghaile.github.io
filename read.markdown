@@ -7,9 +7,7 @@ categories: blockchain
 
 ## Monday October 4th, 2021
 
-<br>
-
-__Còn thương rau đắng mọc sau hè__
+<ul>
 
 Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa" trong bài Còn thương rau đắng mọc sau hè của Cố nhạc sĩ Bắc Sơn
 
@@ -20,7 +18,7 @@ Như mủng vùa mẹ gọt, lúc lên ba?
 
 <br>
 
-__Facebook stopped working for hours.  Posts that explained what really happened__
+Facebook stopped working for hours.  Posts that explained what really happened
 
 - [What is BGP?](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/) - Cloudflare great post explaining what is BGP
 
