@@ -5,6 +5,8 @@ date:   2021-07-05 10:21:22 -0700
 categories: blockchain
 ---
 
+<br>
+
 ### Tuesday October 5th, 2021
 
 <br>
@@ -12,10 +14,11 @@ categories: blockchain
 - Why curiosity is better than being smart?
     - [Why curiosity is better than being smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
 
-
 <br>
 
 ---
+
+<br>
 
 ### Monday October 4th, 2021
 
@@ -39,5 +42,7 @@ categories: blockchain
     - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 
     - [What is BGP?](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/) - A great post from Cloudflare explaining what is Border Gateway Protocol (BGP).
+
+<br>
 
 ---
