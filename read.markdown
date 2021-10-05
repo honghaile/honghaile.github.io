@@ -5,17 +5,17 @@ date:   2021-07-05 10:21:22 -0700
 categories: blockchain
 ---
 
-
 __Monday October 4th, 2021__
 
 <br>
 
-Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa".  
+Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa" trong bài Còn thương rau đắng mọc sau hè của Cố nhạc sĩ Bắc Sơn
+
+> Thằng em nhỏ tóc vẫn chừa ba vá.  
+> Như mủng vùa mẹ gọt, lúc lên ba?
 
 - [Bài hát Còn Thương Rau Đắng… “coi cỏi đốt đồng…” hay “coi khói đốt đồng…”, “ba vá miếng dừa…” hay “ba vá miểng vùa…”](https://nhacxua.vn/bai-hat-con-thuong-rau-dang-coi-coi-dot-dong-hay-coi-khoi-dot-dong-ba-va-mieng-dua-hay-ba-va-mieng-vua/).
 
-
-<br>
 <br>
 
 Yesterday, Facebook stopped working for hours.  Posts that explained what really happened
