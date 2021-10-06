@@ -24,7 +24,7 @@ categories: blockchain
 
 <br>
 
-- Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa" trong bài Còn thương rau đắng mọc sau hè của Cố nhạc sĩ Bắc Sơn__
+- Giải thích nghĩa câu "Rong chơi những ngày đầu chừa ba vá miếng dừa" trong bài Còn thương rau đắng mọc sau hè của Cố nhạc sĩ Bắc Sơn
 
     - Thằng em nhỏ tóc vẫn chừa ba vá.  
         Như mủng vùa mẹ gọt, lúc lên ba?
