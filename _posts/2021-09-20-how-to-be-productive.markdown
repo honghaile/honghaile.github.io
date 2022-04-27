@@ -9,7 +9,7 @@ Here are things that improve my productivity.
 
 __Work on the right things__
 
-Identify important things early and frequent and spend time working on them.  Many people seems busy, but most end up spending time on the wrong things.  You won't get much done if you're working on the wrong things all the time.
+Identify important things early and frequent and spend time working on them.  Many seem busy, but most end up spending time on the wrong things.  You won't get much done if you're working on the wrong things.
 
 __Get enough sleep__
 
