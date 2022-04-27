@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title:  Hello from Ulysses
 date:   2022-04-26 10:38:19 -0700
 categories: jekyll update
