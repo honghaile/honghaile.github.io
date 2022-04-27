@@ -32,7 +32,7 @@ layout: default
                 </a>
             </h3>
 
-            {{ post.excerpt }}
+            {{ post.content | markdownify | strip_html | truncatewords: 50 }}
 
             {%- if site.show_excerpts -%}
             {{ post.excerpt }}
