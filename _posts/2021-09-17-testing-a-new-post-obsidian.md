@@ -20,6 +20,9 @@ This is beautiful Lusail Stadium in Qatar
 ![](../docs/assets/images/lusail-stadium.png)
 
 
+![](../docs/assets/images/lusail_stadium_2.png)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/odAMu_co9_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
