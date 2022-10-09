@@ -11,5 +11,6 @@ This is testing a new post from Obsidian.  Hopefully everything works well.
 
 This is beautiful Lusail Stadium in Qatar
 
-![[Lusail stadium.png]]
+![Lusail Stadium](../docs/assets/images/Lusail%20stadium.png)
+
 
