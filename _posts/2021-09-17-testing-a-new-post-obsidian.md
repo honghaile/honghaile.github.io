@@ -17,7 +17,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 This is the absolute path
 
-![](honghaile.github.io/docs/assets/images/lusail_stadium_2.png)
+![]({{site.url}}/docs/assets/images/lusail_stadium_2.png)
 
 
 This is beautiful Lusail Stadium in Qatar
@@ -27,7 +27,6 @@ This is beautiful Lusail Stadium in Qatar
 Using the full path 
 
 ![](https://honghaile.github.io/docs/assets/images/lusail-stadium.png)
-
 
 
 
