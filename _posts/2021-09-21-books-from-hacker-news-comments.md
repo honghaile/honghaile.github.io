@@ -9,9 +9,9 @@ Recently someone created an [app][1] to aggregate books recommended by Hacker Ne
 
 Here's the [hacker news post][2].
 
-This project uses NLP models to look at hacker news comments and recommends books from the aggregated words.
+This project uses NLP models to look at hacker news comments and recommends books from aggregated words.
 
-Here’s a list of top books from this page:
+Here’s a list of the top books from this page:
 
 - Thinking, Fast and Slow by Daniel Kahneman
 - The Pragmatic Programmer by David Thomas
@@ -25,7 +25,7 @@ Here’s a list of top books from this page:
 
 If you are an avid reader, you’ve heard about most of the top 100 books on this list. Still, it’s a neat list of good books to keep around, especially books that the hacker news community mentioned in the last six months.  Here is NLP plus the wisdom of the crowd.
 
-One thing worth mentioning is that books recommended here are geared towards the tech and hacker news community - a community of hackers, entrepreneurs, and founders in the tech community.
+One thing worth mentioning is that the books recommended here are geared toward the tech and hacker news community - a community of hackers, entrepreneurs, and founders in the tech community.
 
 I end up getting seven new books after visiting this project:
 - Brave New World
