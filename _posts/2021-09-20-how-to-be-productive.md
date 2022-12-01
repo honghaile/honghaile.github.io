@@ -15,9 +15,9 @@ I've spent a lot of time reading books on how to improve productivity.  The gene
 - Finish what you start
 - Use either a time blocking or the Pomodoro technique to get work done.
 
-Most of these self-help books could be summarized into a single page, but authors need to make a living, so they all write 300+ pages books trying to sell you the same message.  The other thing you will notice is that some advice doesn't work for you.  For example, even though I am an early riser - I don't believe in the wake-up at 5 am bs. Lacking sleep stamper  
+Most of these self-help books could be summarized into a single page, but authors need to make a living, so they all write 300+ pages books trying to sell you the same message.  The other thing you will notice is that some advice don't work for you.  For example, even though I am an early riser - I don't believe in the wake-up at 5 am advice.  Waking up at 5 am might help you become more discipline, but lacking sleep will ruin your productivity faster than anything else. 
 
-I don't regret reading many of them, even though I could use the time for something more productive. 
+I don't regret reading these self-help books, even though I could use the time for something more productive and important. 
 
 After reading enough of these productivity books, here are things that improve my productivity.
 
@@ -39,7 +39,7 @@ So if *Productivity = energy x focus x time* is the formula to get things done, 
 
 __Get enough sleep__
 
-A good night's sleep is probably the easiest way to improve your happiness and overall productivity.  If you don't do anything else, do this.
+A good night's sleep is the easiest way to improve your happiness and overall productivity.  If you don't do anything else, do this.
 
 It's the easiest way to improve both your energy level and the ability to focus and improve the outcome of your productivity formula. 
 
@@ -53,15 +53,15 @@ When I was working on my startup, there were days that I felt miserable. The onl
 
 __Work on the right things__
 
-Identify essential things early and frequently and spend time working on them.  Many seem busy, but most spend time on the wrong things.  You won't get much done if you work on the wrong things.  This is probably the most important secret about productivity that people don't tell you.  
+Identify essential things early and frequently and spend time working on them.  Many seem busy, but most spend time on the wrong things.  You won't get much done if you work on the wrong things.  This is the most important secret about productivity that people don't tell you.  
 
-Why? Because identifying the right things to work on is hard, and it is different from person to person, so most people avoid giving you this advice.  Every piece of advice wants you to put in the time and focus on getting things done, but they don't tell you that you have to work on the right things. 
+Why? Because identifying the right things to work on is hard, and it is different from person to person, so most people avoid giving you this advice.  Every piece of advice wants you to put in the time and focus on getting things done, but they need to tell you that you have to work on the right things. 
 
 The question is, how can you identify the right things to work on?  Look deeper into each project you want to get done, the items you want to spend time on, and the things you must do.  One of my filter criteria has been running a cost-benefit analysis on things I want to get done.  And for me, I always pick the things I am passionate about and the things I don't regret later when I look back.  The other criteria that work well for me are to pick projects and things to learn that result in the snowballing effect -- the things that the more you know about them and the more you spend time working on will make you become more valuable and make it hard for someone to catch up to. 
 
 Jeff Bezos of Amazon uses A regret minimization framework to evaluate things.
 
->> "I wanted to project myself forward to age 80 and say, 'Okay, now I'm looking back on my life. I want to have minimized the number of regrets I have,'" explains Bezos. "I knew that when I was 80, I was not going to regret having tried this. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed, I wouldn't regret that, but I knew the one thing I might regret is not ever having tried. I knew that that would haunt me every day, and so when I thought about it that way, it was an incredibly easy decision."
+>> "I wanted to project myself forward to age 80 and say, 'Okay, now I'm looking back on my life. I want to have minimized the number of regrets I have,'" explains Bezos. "I knew that when I was 80, I was not going to regret having tried this. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed, I wouldn't regret that, but I knew the one thing I might regret was not ever having tried. I knew that that would haunt me every day, and so when I thought about it that way, it was an incredibly easy decision."
 
 __The 10-10-10 rule__
 
@@ -77,7 +77,7 @@ I don't expect this to be easy, but with practice, you'll be able to get more ti
 
 __Make decisions quickly__
 
-When you have to decide, do it quickly.  You’ll make mistakes, and you have to adjust your success framework to endure failure, but making a decision is always better than no decision.  Being decisive and making decisions quickly will get you to uncover the unknowns faster and in turn, get you to your goals sooner. 
+When you have to decide, do it quickly.  You’ll make mistakes, and you have to adjust your success framework to endure failure, but making a decision is always better than no decision.  Being decisive and making decisions quickly will get you to uncover the unknowns faster and, in turn, get you to your goals sooner. 
 
 __Do a little every day__.
 
